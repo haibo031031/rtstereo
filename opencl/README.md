@@ -1,9 +1,6 @@
-rtstereo
+OpenCL version
 ========
 
-Real-Time Stereo Matching
-
-========
 Developers: 
 
 Gorkem Saygili from Computer Vision Lab, Delft University of Technology
