@@ -1,0 +1,2 @@
+void calcCensusTrans(unsigned char *img, bool *censusTrans, const int maskHrad, const int maskWrad, const int rdim, const int cdim);
+void calcHammingDist(bool *censusTrnsRef, bool *censusTrnsTar, float *cost, const int maskHrad, const int maskWrad, int rdim, int cdim, int dispRange);

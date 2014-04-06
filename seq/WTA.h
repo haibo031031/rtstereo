@@ -1,0 +1,2 @@
+void WTA(float *cost, unsigned char *winners, const int rdim, const int cdim, const int dispRange);
+void WTA_NCC(float *cost, unsigned char *winners, const int rdim, const int cdim, const int dispRange);

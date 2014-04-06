@@ -1,0 +1,1 @@
+void cross_check(unsigned char *ref_disparity, unsigned char *tar_disparity, unsigned char *cross_check_image, const int rdim, const int cdim);
