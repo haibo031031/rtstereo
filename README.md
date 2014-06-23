@@ -3,7 +3,7 @@ rtstereo
 
 Real-Time Stereo Matching 
 
-OpenCV is required to operate images. 
+OpenCV installation is required to operate images. 
 
 
 ========
