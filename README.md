@@ -1,13 +1,11 @@
 rtstereo
 ========
 
-Real-Time Stereo Matching
+Real-Time Stereo Matching 
+
+OpenCV is required to operate images. 
 
 ========
 Developers: 
 
-Gorkem Saygili from Computer Vision Lab, Delft University of Technology
-
-Jianbin Fang from Parallel and Distribured Systems Group, Delft University of Technology
-
-Jie Shen from Parallel and Distribured Systems Group, Delft University of Technology
+Gorkem Saygili, Jianbin Fang and Jie Shen TU Delft. 
