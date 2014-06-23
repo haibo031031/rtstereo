@@ -1,0 +1,1 @@
+void calculateRankFilt(unsigned char *img, unsigned char *outImg, const int maskSize, const int rdim, const int cdim);
